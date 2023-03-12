@@ -2,3 +2,4 @@
 1. 'Quote Generator(ca9740d)' is the First commit where you can see Random Quote from Great personality
 2. 'Show Modal by clicking btn(5264116)' is the Second commit where you modal pops up by clicking btn
 3. 'Frequently Asked Questions(e598222)' is the Fourth commit which is used to answer most common question about a platform/product/company etc.
+4. 'Stop Watch' is the Fifth commit where you can see a beautiful Stop Watch with all necessary functionalities.
